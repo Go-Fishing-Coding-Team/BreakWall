@@ -14,8 +14,8 @@ SSR和V2ray最有潜力
 墙外网站:  
 `https://ssrtool.us/tool/free_ssr`  
 `https://lncn.org/`  
-`https://fanqiangdang.com/`
-这个可以有免费节点
-2.注册ssPanel
-提供商:
+`https://fanqiangdang.com/`  
+这个可以有免费节点  
+2.注册ssPanel  
+提供商:  
 `https://www.assr.vip`  
