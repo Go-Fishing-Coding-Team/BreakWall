@@ -18,4 +18,6 @@ SSR和V2ray最有潜力
 这个可以有免费节点  
 2.注册ssPanel  
 提供商:  
-`https://www.assr.vip`  
+`https://www.assr.vip`免费节点全死光  
+`https://suying666.net`PS:DNS被污染,使用Google的DNS?  
+`https://666ssr.xyz`
